@@ -45,8 +45,20 @@ The vision behind healthcare.gammal.tech is to create a system where **technolog
 
 ---
 
-## Diagram / Illustration (Optional)
+## Diagram / Illustration ## System Overview
 
-![System Diagram](link-to-your-image-or-diagram.png)
+       +-----------+
+       | Restaurants |
+       +-----+-----+
+             |
+             v
+       +-----+-----+
+       |   Users   |
+       +-----+-----+
+      /      |      \
+     v       v       v
++---------+ +------+ +-----+
+| Doctors | |  AI  | | Gyms |
++---------+ +------+ +-----+
 
-*You can replace this with a simple illustration showing the connection between Restaurants, Doctors, Gyms, and AI.*
+This diagram shows how healthcare.gammal.tech connects Restaurants, Doctors, Gyms, and AI to guide users toward healthier choices.
