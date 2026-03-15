@@ -45,7 +45,7 @@ The vision behind healthcare.gammal.tech is to create a system where **technolog
 
 ---
 
-## Diagram / Illustration ## System Overview
+Diagram / Illustration 
 
        +-----------+
        | Restaurants |
