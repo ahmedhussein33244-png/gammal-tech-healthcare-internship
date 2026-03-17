@@ -103,9 +103,15 @@ All components are connected to help users:
 🗺 System Flow Diagram
 
 Graph TD
-A[🍽 Restaurants] --> B[👤 User]
+A[🍽 Restaurants] 
+--> B[👤 User]
+
 B --> C[🤖 AI Analysis]
+
 C --> D[🚨 Risk Detection]
+
 D --> E[👩‍⚕️ Doctors]
+
 D --> F[🏋️‍♂️ Gyms]
+
 E --> G[📝 Medical Guidance]
