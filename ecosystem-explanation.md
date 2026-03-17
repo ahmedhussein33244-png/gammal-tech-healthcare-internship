@@ -102,8 +102,7 @@ All components are connected to help users:
 
 🗺 System Flow Diagram
 
-```mermaid
-graph TD
+Graph TD
 A[🍽 Restaurants] --> B[👤 User]
 B --> C[🤖 AI Analysis]
 C --> D[🚨 Risk Detection]
